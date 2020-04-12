@@ -15,6 +15,7 @@
 - [x] [💻] Docker - AWS + Nginx 설치와 구동 (1) https://dev-r.tistory.com/6
 - [x] [💻] Docker - AWS + Nginx 설치와 구동 (2) https://dev-r.tistory.com/7
 - [x] [💻] Docker - AWS + Nginx 설치와 구동 (3) https://dev-r.tistory.com/8
+- [x] [💻] Docker -AWS+Docker+MariaDB 설치하고 외부에서 접속하기 https://dev-r.tistory.com/9
 
 
   <br/> <br/>
